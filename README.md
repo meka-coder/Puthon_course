@@ -1,4 +1,4 @@
-# My first step inprogramming
+# My first step in programming
 # Puthon_course
 كود ومشاريع كورس تعلم لغة بايثون.
 # 🐍 Python Course | كورس تعلم البايثون
